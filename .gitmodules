@@ -1,0 +1,12 @@
+[submodule "external/fmt"]
+	path = external/fmt
+	url = git@github.com:fmtlib/fmt.git
+[submodule "external/yaml-cpp"]
+	path = external/yaml-cpp
+	url = git@github.com:jbeder/yaml-cpp.git
+[submodule "external/doctest"]
+	path = external/doctest
+	url = git@github.com:doctest/doctest.git
+[submodule "external/kdtree"]
+	path = external/kdtree
+	url = git@github.com:matthewoots/kdtree.git

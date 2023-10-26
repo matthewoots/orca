@@ -1,0 +1,9 @@
+orca:
+  rate: 1.0               # planning rate
+  max_vel: 10             # maximum velocity
+  p_z: 3.0                # protected zone
+  buf: 20                 # buffer scale
+  max_neigh: 15           # max neighbours
+  t_tolerance: 5.0        # tolerance for the amount of time
+  comm_radius: 40.0       # communication radius
+  height_range: [0.5, 20.0]
